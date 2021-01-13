@@ -1,0 +1,508 @@
+fileFormatVersion: 2
+guid: 78f1bdbdca4da8d478c4442c5d09e664
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3061020737209043470
+    second: MainMenuBabey_0
+  - first:
+      213: 8294720989300901350
+    second: MainMenuBabey_1
+  - first:
+      213: 1929843902384200660
+    second: MainMenuBabey_2
+  - first:
+      213: 2711771698402427913
+    second: MainMenuBabey_3
+  - first:
+      213: -273949199426388728
+    second: MainMenuBabey_4
+  - first:
+      213: 1749358719634625977
+    second: MainMenuBabey_5
+  - first:
+      213: -496843351580553500
+    second: MainMenuBabey_6
+  - first:
+      213: 1795440093572928235
+    second: MainMenuBabey_7
+  - first:
+      213: 2889728993145543312
+    second: MainMenuBabey_8
+  - first:
+      213: 8417761882246721854
+    second: MainMenuBabey_9
+  - first:
+      213: -7322483458370299821
+    second: MainMenuBabey_10
+  - first:
+      213: 5823217455516215017
+    second: MainMenuBabey_11
+  - first:
+      213: -982202864823301344
+    second: MainMenuBabey_12
+  - first:
+      213: 8350004797842053338
+    second: MainMenuBabey_13
+  - first:
+      213: 423899335791688150
+    second: MainMenuBabey_14
+  - first:
+      213: -8234584302494748697
+    second: MainMenuBabey_15
+  - first:
+      213: -8735456246534768222
+    second: MainMenuBabey_16
+  - first:
+      213: 2932107658995250017
+    second: MainMenuBabey_17
+  - first:
+      213: -175067129348731454
+    second: MainMenuBabey_18
+  - first:
+      213: -3357019646690272584
+    second: MainMenuBabey_19
+  - first:
+      213: -4391048112713452311
+    second: MainMenuBabey_20
+  - first:
+      213: 4396153246120896358
+    second: MainMenuBabey_21
+  - first:
+      213: 7460877819337064825
+    second: MainMenuBabey_22
+  - first:
+      213: -722841935706511095
+    second: MainMenuBabey_23
+  - first:
+      213: -781232466772803098
+    second: MainMenuBabey_24
+  - first:
+      213: 3967653607694746628
+    second: MainMenuBabey_25
+  - first:
+      213: 9080234065430312270
+    second: MainMenuBabey_26
+  - first:
+      213: 4739618646759489084
+    second: MainMenuBabey_27
+  - first:
+      213: 2937989109505058501
+    second: MainMenuBabey_28
+  - first:
+      213: -8261140646125954398
+    second: MainMenuBabey_29
+  - first:
+      213: 442805408611919627
+    second: MainMenuBabey_30
+  - first:
+      213: -4383209530502845171
+    second: MainMenuBabey_31
+  - first:
+      213: -2056153737716547725
+    second: MainMenuBabey_32
+  - first:
+      213: -7916496539448672162
+    second: MainMenuBabey_33
+  - first:
+      213: -4301282808639104839
+    second: MainMenuBabey_34
+  - first:
+      213: -8831024915930073190
+    second: MainMenuBabey_35
+  - first:
+      213: 2348684604980146048
+    second: MainMenuBabey_36
+  - first:
+      213: 7807676497737838857
+    second: MainMenuBabey_37
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MainMenuBabey_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 100
+        height: 103
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5fc848bd11585d0800000000000000
+      internalID: -3061020737209043470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainMenuBabey_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 8
+        width: 100
+        height: 103
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5c14edac4cc1370800000000000000
+      internalID: 8294720989300901350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainMenuBabey_2
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 8
+        width: 100
+        height: 103
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db5091fdce28ca10800000000000000
+      internalID: 1929843902384200660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainMenuBabey_3
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 8
+        width: 100
+        height: 103
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9040c3bfdf522a520800000000000000
+      internalID: 2711771698402427913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainMenuBabey_4
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 8
+        width: 100
+        height: 103
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80dffa197acb23cf0800000000000000
+      internalID: -273949199426388728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainMenuBabey_5
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 8
+        width: 100
+        height: 103
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5dd8cac78f64810800000000000000
+      internalID: 1749358719634625977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainMenuBabey_6
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 8
+        width: 100
+        height: 103
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eec608aa9bda19f0800000000000000
+      internalID: -496843351580553500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainMenuBabey_7
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 8
+        width: 100
+        height: 103
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be298e0a04faae810800000000000000
+      internalID: 1795440093572928235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainMenuBabey_8
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 8
+        width: 100
+        height: 103
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a569575316a1820800000000000000
+      internalID: 2889728993145543312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainMenuBabey_9
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 8
+        width: 100
+        height: 103
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31b32b25d5e1d470800000000000000
+      internalID: 8417761882246721854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainMenuBabey_10
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 8
+        width: 100
+        height: 103
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3581a2e3710516a90800000000000000
+      internalID: -7322483458370299821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainMenuBabey_11
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 8
+        width: 100
+        height: 103
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6e5ed4c6930d050800000000000000
+      internalID: 5823217455516215017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
